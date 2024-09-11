@@ -26,3 +26,5 @@ class Vendas(BaseModel):
     valor: PositiveFloat
     quantidade: PositiveInt
     produto: ProdutoEnum
+
+    
